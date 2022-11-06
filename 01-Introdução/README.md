@@ -30,7 +30,36 @@ Classes de complexidade:
   * "NP-Completo"
   * "NP-Difícil"
 
-## Herísticas
+## Problemas NP-Difíceis
+
+Algoritmos exatos não polinominais:
+
+* programação dinâmica
+* branch-and-bound
+* backtracking
+
+Algoritmos pseudo-polinominais:
+
+* polinominais no tamanho da instância e no valor do maior dado de entrada
+* exemplo: mochila
+
+Processamento Paralelo:
+
+* aceleração na prática, sem redução da complexidade.
+
+Algoritmos aproximativos:
+
+* encontram uma solução viável próxima do ótimo garantido.
+* exemplo: bin packing
+
+Algoritmos probabilísticos:
+
+* convergência em valor esperado.
+* convergência em probabilidade.
+
+## Heurísticas
+
+Definição: qualquer método aproximado projetado com base nas características das soluções dos problemas, com complexidade reduzida em relação à dos métodos exatos que fornecem boas soluções (sem garantia da factibilidade).
 
 Alguns problemas são tão complexos que não encontram soluções ótimas por métodos exatos em tempo computacional satisfatório.
 
@@ -56,3 +85,4 @@ Tipos de Heurísticas:
   * categoria da maioria das heurísticas.
   * partem de uma solução inicial.
   * definição: vizinhança, vizinho, movimento.
+
