@@ -10,7 +10,10 @@
 ## 2 - [Métodos Construtivos](02-Algoritmos%20Construtivos/README.md)
 
 * Definição
-* Aplicações
+* NEXT FIT
+* FIRST FIT
+* BEST FIT
+* WORST FIT
 
 ## 3 - Métodos de Busca Local
 
