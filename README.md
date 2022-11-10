@@ -7,13 +7,13 @@
 * Métodos de Resolução Exatos e Heurísticos
 * Complexidade Computacional
 
-## 2 - [Métodos Construtivos](02-Algoritmos%20Construtivos/README.md)
+## 2 - Métodos Construtivos
 
 * Definição
-* NEXT FIT
-* FIRST FIT
-* BEST FIT
-* WORST FIT
+* [NEXT FIT](02-Algoritmos%20Construtivos/01%20-%20next_fit.ipynb)
+* [FIRST FIT](02-Algoritmos%20Construtivos/02%20-%20first_fit.ipynb)
+* [BEST FIT](02-Algoritmos%20Construtivos/03%20-%20best_fit.ipynb)
+* [WORST FIT](02-Algoritmos%20Construtivos/04%20-%20worst_fit.ipynb)
 
 ## 3 - Métodos de Busca Local
 
